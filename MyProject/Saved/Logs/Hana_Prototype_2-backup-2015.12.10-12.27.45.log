@@ -1,0 +1,46 @@
+﻿[2015.12.10-01.22.08:846][  0]Log file open, 12/10/15 12:22:08
+[2015.12.10-01.22.08:846][  0]LogInit:Display: Running engine for game: Hana_Prototype
+[2015.12.10-01.22.08:846][  0]LogInit:Display: RandInit(-1660397568) SRandInit(-1660397567).
+[2015.12.10-01.22.08:846][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2015.12.10-01.22.08:846][  0]LogStats: Stats thread started at 0.089215
+[2015.12.10-01.22.08:846][  0]LogInit: Version: 4.9.2-2707645+++depot+UE4-Releases+4.9
+[2015.12.10-01.22.08:846][  0]LogInit: API Version: 2672455
+[2015.12.10-01.22.08:846][  0]LogInit: Compiled (64-bit): Sep 28 2015 10:25:44
+[2015.12.10-01.22.08:846][  0]LogInit: Compiled with Visual C++: 18.00.21005.01
+[2015.12.10-01.22.08:846][  0]LogInit: Build Configuration: Development
+[2015.12.10-01.22.08:846][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.9
+[2015.12.10-01.22.08:846][  0]LogInit: Command line:  /Temp/Autosaves/Game/SideScrollerBP/Maps/UEDPCSideScrollerExampleMap -game -PIEVIACONSOLE -ResX=1680 -ResY=1050  -Multiprocess -featureleveles2 -faketouches 
+[2015.12.10-01.22.08:846][  0]LogInit: Base directory: C:/Program Files/Unreal Engine/4.9/Engine/Binaries/Win64/
+[2015.12.10-01.22.08:846][  0]LogInit: Rocket: 1
+[2015.12.10-01.22.08:863][  0]LogInit: Using libcurl 7.41.0
+[2015.12.10-01.22.08:863][  0]LogInit:  - built for x86_64-pc-win32
+[2015.12.10-01.22.08:863][  0]LogInit:  - supports SSL with WinSSL
+[2015.12.10-01.22.08:863][  0]LogInit:  - other features:
+[2015.12.10-01.22.08:863][  0]LogInit:      CURL_VERSION_SSL
+[2015.12.10-01.22.08:864][  0]LogInit:      CURL_VERSION_IPV6
+[2015.12.10-01.22.08:864][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2015.12.10-01.22.08:864][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2015.12.10-01.22.08:864][  0]LogInit:      CURL_VERSION_IDN
+[2015.12.10-01.22.08:864][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2015.12.10-01.22.08:864][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2015.12.10-01.22.08:864][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2015.12.10-01.22.08:864][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2015.12.10-01.22.08:864][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2015.12.10-01.22.08:875][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.12.10-01.22.08:891][  0]LogInit: Object subsystem initialized
+[2015.12.10-01.22.08:894][  0]LogInit: Selected Device Profile: [Windows]
+[2015.12.10-01.22.08:894][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.12.10-01.22.08:900][  0]LogInit: Computer: COREY-PC
+[2015.12.10-01.22.08:900][  0]LogInit: User: User
+[2015.12.10-01.22.08:900][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.12.10-01.22.08:900][  0]LogInit: High frequency timer resolution =1.946835 MHz
+[2015.12.10-01.22.08:900][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2015.12.10-01.22.08:900][  0]LogMemory: Platform Memory Stats for Windows
+[2015.12.10-01.22.08:900][  0]LogMemory: Process Physical Memory: 55.14 MB used, 55.14 MB peak
+[2015.12.10-01.22.08:900][  0]LogMemory: Process Virtual Memory: 57.61 MB used, 57.61 MB peak
+[2015.12.10-01.22.08:900][  0]LogMemory: Physical Memory: 4560.81 MB used, 6091.86 MB total
+[2015.12.10-01.22.08:900][  0]LogMemory: Virtual Memory: 338.61 MB used, 8388608.00 MB total
+[2015.12.10-01.22.08:948][  0]LogTextLocalizationManager: No specific translations for ('en-AU') exist, so ('en') translations will be used.
+[2015.12.10-01.22.09:858][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 555M    (Feature Level 11_0)
+[2015.12.10-01.22.09:858][  0]LogD3D11RHI: Adapter has 3019MB of dedicated video memory, 0MB of dedicated system memory, and 2789MB of shared system memory, 1 output[s]
+[2015.12.10-01.22.09:924][  0]LogD3D11RHI: Found D3D11 adapter 1: Intel(R) HD Graphics 3000 (Feature Level 11_0)
